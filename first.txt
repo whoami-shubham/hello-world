@@ -1,3 +1,4 @@
 This is first file
 changes made
 now it's time to merge the changes that i made in branch other
+now let's check merge conflicts
