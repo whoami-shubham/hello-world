@@ -1,3 +1,4 @@
 This is first file
 changes made
-merge conflict
+now it's time to merge the changes that i made in branch other
+ merge conflicts checked
